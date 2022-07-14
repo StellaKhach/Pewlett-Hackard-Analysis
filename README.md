@@ -17,10 +17,10 @@ Deliverable 1
 * We can conclude from the tables here that those who were eligible for mentorship, they mostly have senior titles. 
 
 * The Retirement titles sheet shows us how long each retired person has worked  and the title that they currently hold. 
-(https://user-images.githubusercontent.com/92186586/178920893-e6e98b80-0623-4d2f-ab17-678507281239.png)
+![image](https://user-images.githubusercontent.com/92186586/178920987-83b5565c-8ff4-4256-9c7b-a8d62f56c6d3.png)
 
 
-* The unique titles shows us the currently employees that are soon to retire and their most recent title in their company.  (https://user-images.githubusercontent.com/92186586/178920669-02dbf4c9-35de-418d-80ce-478b6af03757.png)
+* The unique titles shows us the currently employees that are soon to retire and their most recent title in their company.  ![image](https://user-images.githubusercontent.com/92186586/178920669-02dbf4c9-35de-418d-80ce-478b6af03757.png)
 
 # # Conclusion
 
