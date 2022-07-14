@@ -9,7 +9,7 @@ The second deliverable ws to see which employees were eligible for the Mentorshi
 
 After each deliverable and all of their steps were complete, we exported them into csv comma separated files. 
 
-#Results 
+# Results 
 
 Deliverable 1 
 * We discovered through the retiring_titles that the titles that had the highest retirement rates were Senior level employees. Senior Engineers were 25916 followed by Senior staff at 24926.
@@ -17,9 +17,11 @@ Deliverable 1
 * We can conclude from the tables here that those who were eligible for mentorship, they mostly have senior titles. 
 
 * The Retirement titles sheet shows us how long each retired person has worked  and the title that they currently hold. 
+(https://user-images.githubusercontent.com/92186586/178920893-e6e98b80-0623-4d2f-ab17-678507281239.png)
 
-* The unique titles shows us the currently employees that are soon to retire and their most recent title in their company.  Engineer![image](https://user-images.githubusercontent.com/92186586/178920669-02dbf4c9-35de-418d-80ce-478b6af03757.png)
 
-##Conclusion
+* The unique titles shows us the currently employees that are soon to retire and their most recent title in their company.  (https://user-images.githubusercontent.com/92186586/178920669-02dbf4c9-35de-418d-80ce-478b6af03757.png)
+
+# # Conclusion
 
 We can conclude that most employees retiring of age 65 and above are leaving behind senior level position. From here we can conclude that there will be more opening and oppertunities for other emplyees to apply for those positions. Because these are mostly engineering jobs, I believe that the next generation will have more to offer since technology continues to advance. 
